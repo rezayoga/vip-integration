@@ -34,7 +34,8 @@ go.work
 tmp
 auth-service
 .scannerwork
-auth-service
+app
+app-linux
 *.pdf
 
 .air.toml
